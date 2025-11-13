@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+.select {
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+table {
+  justify-self: center;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.guest-details {
+  justify-self: center;
+  border-style: solid;
+  border-radius: 10px;
+  margin-top: 100px;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+}
